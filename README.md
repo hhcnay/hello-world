@@ -1,2 +1,2 @@
-# hello-world
-My first step in the github world. 
+# Hello-World
+My first step in the world of github. 
